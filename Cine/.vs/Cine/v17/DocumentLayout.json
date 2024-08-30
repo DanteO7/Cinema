@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dorsettimartinez\\source\\repos\\Cine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{783AED27-803F-4899-8D89-AF87B5110EEC}|Cine\\Cine.csproj|c:\\users\\dorsettimartinez\\source\\repos\\cine\\cine\\modulos\\asiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783AED27-803F-4899-8D89-AF87B5110EEC}|Cine\\Cine.csproj|solutionrelative:cine\\modulos\\asiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783AED27-803F-4899-8D89-AF87B5110EEC}|Cine\\Cine.csproj|c:\\users\\dorsettimartinez\\source\\repos\\cine\\cine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783AED27-803F-4899-8D89-AF87B5110EEC}|Cine\\Cine.csproj|solutionrelative:cine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783AED27-803F-4899-8D89-AF87B5110EEC}|Cine\\Cine.csproj|c:\\users\\dorsettimartinez\\source\\repos\\cine\\cine\\modulos\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783AED27-803F-4899-8D89-AF87B5110EEC}|Cine\\Cine.csproj|solutionrelative:cine\\modulos\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783AED27-803F-4899-8D89-AF87B5110EEC}|Cine\\Cine.csproj|c:\\users\\dorsettimartinez\\source\\repos\\cine\\cine\\modulos\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783AED27-803F-4899-8D89-AF87B5110EEC}|Cine\\Cine.csproj|solutionrelative:cine\\modulos\\entrada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783AED27-803F-4899-8D89-AF87B5110EEC}|Cine\\Cine.csproj|c:\\users\\dorsettimartinez\\source\\repos\\cine\\cine\\modulos\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783AED27-803F-4899-8D89-AF87B5110EEC}|Cine\\Cine.csproj|solutionrelative:cine\\modulos\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{783AED27-803F-4899-8D89-AF87B5110EEC}|Cine\\Cine.csproj|c:\\users\\dorsettimartinez\\source\\repos\\cine\\cine\\modulos\\cine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{783AED27-803F-4899-8D89-AF87B5110EEC}|Cine\\Cine.csproj|solutionrelative:cine\\modulos\\cine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sala.cs",
+              "DocumentMoniker": "C:\\Users\\dorsettimartinez\\source\\repos\\Cine\\Cine\\Modulos\\Sala.cs",
+              "RelativeDocumentMoniker": "Cine\\Modulos\\Sala.cs",
+              "ToolTip": "C:\\Users\\dorsettimartinez\\source\\repos\\Cine\\Cine\\Modulos\\Sala.cs",
+              "RelativeToolTip": "Cine\\Modulos\\Sala.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T20:38:18.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Entrada.cs",
+              "DocumentMoniker": "C:\\Users\\dorsettimartinez\\source\\repos\\Cine\\Cine\\Modulos\\Entrada.cs",
+              "RelativeDocumentMoniker": "Cine\\Modulos\\Entrada.cs",
+              "ToolTip": "C:\\Users\\dorsettimartinez\\source\\repos\\Cine\\Cine\\Modulos\\Entrada.cs",
+              "RelativeToolTip": "Cine\\Modulos\\Entrada.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T20:37:47.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Asiento.cs",
+              "DocumentMoniker": "C:\\Users\\dorsettimartinez\\source\\repos\\Cine\\Cine\\Modulos\\Asiento.cs",
+              "RelativeDocumentMoniker": "Cine\\Modulos\\Asiento.cs",
+              "ToolTip": "C:\\Users\\dorsettimartinez\\source\\repos\\Cine\\Cine\\Modulos\\Asiento.cs",
+              "RelativeToolTip": "Cine\\Modulos\\Asiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T20:37:31.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pelicula.cs",
+              "DocumentMoniker": "C:\\Users\\dorsettimartinez\\source\\repos\\Cine\\Cine\\Modulos\\Pelicula.cs",
+              "RelativeDocumentMoniker": "Cine\\Modulos\\Pelicula.cs",
+              "ToolTip": "C:\\Users\\dorsettimartinez\\source\\repos\\Cine\\Cine\\Modulos\\Pelicula.cs",
+              "RelativeToolTip": "Cine\\Modulos\\Pelicula.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T20:37:14.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cine.cs",
+              "DocumentMoniker": "C:\\Users\\dorsettimartinez\\source\\repos\\Cine\\Cine\\Modulos\\Cine.cs",
+              "RelativeDocumentMoniker": "Cine\\Modulos\\Cine.cs",
+              "ToolTip": "C:\\Users\\dorsettimartinez\\source\\repos\\Cine\\Cine\\Modulos\\Cine.cs",
+              "RelativeToolTip": "Cine\\Modulos\\Cine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T20:37:05.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dorsettimartinez\\source\\repos\\Cine\\Cine\\Program.cs",
+              "RelativeDocumentMoniker": "Cine\\Program.cs",
+              "ToolTip": "C:\\Users\\dorsettimartinez\\source\\repos\\Cine\\Cine\\Program.cs",
+              "RelativeToolTip": "Cine\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T20:26:21.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
